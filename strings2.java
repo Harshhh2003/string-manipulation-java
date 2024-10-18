@@ -8,7 +8,7 @@ public class strings2{
         System.out.println(str.contains("xyz"));
         System.out.println(str.startsWith("bha"));
         System.out.println(str.endsWith("waj"));
-        System.out.println(str.toLowerCase());git
+        System.out.println(str.toLowerCase());
         System.out.println(str.toUpperCase());
         System.out.println(str.concat(str2));
 
