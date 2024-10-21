@@ -11,6 +11,7 @@ public class strings2{
         System.out.println(str.toLowerCase());
         System.out.println(str.toUpperCase());
         System.out.println(str.concat(str2));
+     
 
 
         
